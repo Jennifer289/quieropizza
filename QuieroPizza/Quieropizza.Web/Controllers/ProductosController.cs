@@ -14,11 +14,11 @@ namespace QuieroPizza.web.Controllers
         {
             var producto1 = new ProductoModel();
             producto1.id = 1;
-            producto1.Descripcion = "Pizza 6 Quesos";
+            producto1.Descripcion = "Pizza Francesa";
 
             var producto2 = new ProductoModel();
             producto2.id = 2;
-            producto2.Descripcion = "Pizza 4 Estaciones";
+            producto2.Descripcion = "Pizza Suprema con borde de queso";
 
             var producto3 = new ProductoModel();
             producto3.id = 3;
